@@ -17,3 +17,28 @@ h1 {
 #title {
   background-color: #ff4c68;
 }
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.navbar {
+  padding-bottom: 3%;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.download-btn {
+  margin: 5% 2% 0 0;
+}
+
+.title-img {
+  width: 50%;
+  transform: rotate(12deg);
+  margin: 5% 20%;
+}
+
