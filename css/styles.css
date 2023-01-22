@@ -42,3 +42,32 @@ h1 {
   margin: 5% 20%;
 }
 
+.features-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.features-img {
+  color: #ef8172;
+  font-size: 400%;
+  margin: 8%;
+}
+
+.features-img:hover {
+  color: #ff4c68;
+}
+
+.p-features {
+  color: #8f8f8f;
+  padding: 0 15%;
+}
+
+.feature {
+  margin: 2%;
+}
+
+#features {
+  text-align: center;
+  margin: 8% auto;
+}
+
