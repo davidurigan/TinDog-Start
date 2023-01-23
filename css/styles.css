@@ -68,13 +68,17 @@ h1 {
 
 #features {
   text-align: center;
-  margin: 8% auto;
+  padding: 100px 10% 0;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+  bottom: 120px;
 }
 
 .h2-testimonials {
   font-weight: bold;
   width: 80%;
-  padding: 10% 0 0 0;
+  padding: 100px 0 0 0;
   margin: auto;
   text-align: left;
 }
