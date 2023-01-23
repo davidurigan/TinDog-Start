@@ -112,3 +112,23 @@ h1 {
   padding: 7%;
   text-align: center;
 }
+
+
+.card{
+    width: 15rem;
+    margin: 20px auto;
+}
+
+.btn-card{
+  margin-top: 10px;
+  width: 80%;
+}
+
+.card-list{
+  text-align: left;
+}
+
+.card-container{
+  width: 75%;
+}
+
