@@ -75,6 +75,8 @@ h1 {
   font-weight: bold;
   width: 80%;
   padding: 10% 0 0 0;
+  margin: auto;
+  text-align: left;
 }
 
 .testimonial-img {
@@ -85,7 +87,6 @@ h1 {
 
 #testimonials {
   background-color: #ef8172;
-  padding: 7%;
   color: white;
 }
 
@@ -99,3 +100,11 @@ h1 {
   text-align: center;
 }
 
+.carousel-item {
+  padding: 0 5%;
+}
+
+#testimonials-carousel {
+  padding: 7%;
+  text-align: center;
+}
