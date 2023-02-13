@@ -162,6 +162,11 @@ small{
   #title{
     text-align: center;
   }
+
+  h3{
+    width: 75%;
+    margin: 0 auto;
+  }
 }
 
 h3{
@@ -175,7 +180,7 @@ h3{
 #cta{
   background-color: #ff4c68;
   text-align: center;
-  padding: 100px;
+  padding: 10% 0%;
 }
 
 .media-icon{
